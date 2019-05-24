@@ -45,6 +45,6 @@ python3 -m jira_to_wunderlist.sync <Wunderlist-ListName>
 
 ## Future Improvements
 
--   [ ] Turn this into a package with an entry_point for use anywhere.
+-   [x] Turn this into a package with an entry_point for use anywhere.
 -   [ ] Enable bi-directional syncing
 -   [ ] Better Error-trapping for missing environment variables
